@@ -1,0 +1,15 @@
+{
+  "name": "Jira Log work",
+  "description": "Easily to log work",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "dist/index.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ]
+}
